@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-void main (){
+void main ()
+{
 
-	printf("hello, world!\n");
-	getchar();
+    printf("hello, world!\n");
+    getchar();
 
 }
